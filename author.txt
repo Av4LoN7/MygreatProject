@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Georges Garnier
 Romain Boijoux
-=======
-Georges Garnier ++
 BELLOC Boris
->>>>>>> 081bceaf78978422657c296503cb1aebd3628517
