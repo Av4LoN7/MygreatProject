@@ -1,0 +1,7 @@
+package
+import
+definition de classe
+public
+constructeur
+methode
+getter et setter
