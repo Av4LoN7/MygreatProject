@@ -1,1 +1,3 @@
 # MygreatProject
+
+Une histoire moderne.
